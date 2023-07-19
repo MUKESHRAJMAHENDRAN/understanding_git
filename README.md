@@ -1,2 +1,2 @@
 # understanding_git
-Understand the git and how it works
+- This repo help people to understand the git and github how it works
